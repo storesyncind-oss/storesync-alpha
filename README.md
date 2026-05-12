@@ -1,6 +1,7 @@
 # StoreSync - Smart Retail Ecosystem <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c1428e7a-d4f8-4f3c-a248-e8260286c426" />
 
-**Founder:** VK Reddy Mallidi  ![Uploading image.png…]()
+**Founder:** VK Reddy Mallidi <img width="1090" height="1363" alt="image" src="https://github.com/user-attachments/assets/8243abe5-2373-4387-983c-a0bcf2a2006b" />
+
 
 **HQ:** India  
 **Status:** Alpha Development
